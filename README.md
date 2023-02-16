@@ -1,6 +1,6 @@
 IAM SALIM 🖤🥀 IAM FROM BANGLADESH  
 
-TERMUX SET-UP COMMAND
+<h3 align="left">TERMUX INSTALL COMMAND</h3>
 
 - `apt update`
 
