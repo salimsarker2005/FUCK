@@ -1,23 +1,13 @@
+
 <p align="center"><img src="https://img.shields.io/badge/I AM %20A ELECTRICAL ENGINEER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-
  
-
 <h3 align="center">
-
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
-
- <====CREATE BY SALIM====>
-
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
-
-</h3>
-  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=15&lines=MY+NAME+IS+SALIM;+It's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
-
  
-
 </p>
-
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+</h3>
 
 
 IAM SALIM 🖤🥀 IAM FROM BANGLADESH  
