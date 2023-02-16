@@ -2,17 +2,17 @@ IAM SALIM 🖤🥀 IAM FROM BANGLADESH
 
 TERMUX SET-UP COMMAND
 
-apt update
+- `apt update`
 
-apt upgrade
+- `apt upgrade`
 
-pkg install python
+- `pkg install python`
 
-pkg install git
+- `pkg install git`
 
-git clone https://github.com/salimsarker2005/FUCK
+- `git clone https://github.com/salimsarker2005/FUCK`
 
- cd FUCK
+- `cd FUCK`
 
-python salim_termux2.0.py
+- `python salim_termux2.0.py`
 
