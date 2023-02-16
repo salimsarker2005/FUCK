@@ -10,7 +10,7 @@ TERMUX SET-UP COMMAND
 
 - `pkg install git`
 
-- `git clone https://github.com/salimsarker2005/FUCK`
+- `git clone  https://github.com/salimsarker2005/FUCK`
 
 - `cd FUCK`
 
