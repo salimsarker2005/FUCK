@@ -39,7 +39,7 @@
 
 <a href="https://github.com/salimsarker2005/followers"><img title="Followers" src="https://img.shields.io/github/followers/salimsarker2005?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/salimsarker2005/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salimsarker2005/World?color=red&style=flat-square"></a>
+
 
 
 </p>
