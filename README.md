@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/GIRLS FUCKING BOY-SALIM-orange?style=for-the-badge&logo=python.svg) 
 
 <p align="center">
 
