@@ -41,9 +41,6 @@
 
 <a href="https://github.com/salimsarker2005/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salimsarker2005/World?color=red&style=flat-square"></a>
 
-<a href="https://github.com/salimsarker2005/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salimsarker2005/World?color=red&style=flat-square"></a>
-
-<a href="https://github.com/salimsarker2005/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salimsarker2005/World?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
 
